@@ -1,0 +1,4 @@
+DNS_mul
+*.out
+*.o
+.DS_Store
